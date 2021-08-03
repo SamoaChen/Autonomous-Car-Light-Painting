@@ -11,6 +11,6 @@
 ### Gain Scheduling
 ## Performance Evaluation
 ### Feedforward Result
-<img src="https://github.com/SamoaChen/2-Linkages-Robotic-Arm-Hybrid-Position-Force-Control/blob/master/images/Position_Force_Control.gif" width="80%" height="80%">
+<img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/feed_forward.gif?raw=true" width="50%" height="50%">
 ### Feedforward and Feedback
 ### Disturbance Rejection
