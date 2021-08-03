@@ -1,2 +1,12 @@
 # Autonomous-Car-Trajectory-Tracking
-This is a repository demonstrating my personal project on car trajectory tracking
+## Matlab Simulation
+
+## Car Components
+
+## Rear Wheel Speed Control
+
+## Trajectory Tracking Controller
+
+### Extended Kalman Filter
+### Gain Scheduling
+## Disturbance Rejection
