@@ -24,7 +24,7 @@
 ### Feedback with LQR Simulation and Experimental Result
 <p float="left">
    <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/feed_back_simulation.png?raw=true" width="40%" height="40%">
-   <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/feed_back.gif?raw=true" width="50%" height="50%">
+   <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/feed_back.gif?raw=true" width="48%" height="48%">
 </p>
 
 ### Disturbance Rejection
