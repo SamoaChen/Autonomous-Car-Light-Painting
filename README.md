@@ -13,7 +13,7 @@
 ### Feedforward Result
 <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/feed_forward.gif?raw=true" width="50%" height="50%">
 
-### Feedforward and Feedback
+### Feedback with LQR
 <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/feed_back.gif?raw=true" width="50%" height="50%">
 
 ### Disturbance Rejection
