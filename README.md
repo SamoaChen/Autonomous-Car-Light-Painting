@@ -1,7 +1,7 @@
 # Autonomous-Car-Trajectory-Tracking
 <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/car_picture.jpg?raw=true" width="80%" height="70%">
 
-## rosgraph
+## Rosgraph
 <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/rosgraph.png?raw=true" width="80%" height="80%">
 
 ## Matlab Simulation
