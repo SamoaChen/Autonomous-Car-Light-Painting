@@ -1,5 +1,5 @@
 # Autonomous-Car-Trajectory-Tracking
-![Autonomous Car](https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/car_picture.jpg?raw=true)
+<img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/car_picture.jpg?raw=true" width="80%" height="80%">
 ## rosgraph
 <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/rosgraph.png?raw=true" width="80%" height="80%">
 
