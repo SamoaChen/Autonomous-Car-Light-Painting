@@ -28,4 +28,4 @@
 </p>
 
 ### Disturbance Rejection
-<img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/disturbance_rejection.gif?raw=true" width="50%" height="50%">
+<img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/disturbance_rejection.gif?raw=true" width="60%" height="60%">
