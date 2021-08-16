@@ -1,4 +1,4 @@
-# Autonomous-Car-Trajectory-Tracking
+# Autonomous-Car-Light-Painting
 <img src="https://github.com/SamoaChen/Autonomous-Car-Trajectory-Tracking/blob/main/Images/car_picture.jpg?raw=true" width="80%" height="70%">
 
 ## Rosgraph
