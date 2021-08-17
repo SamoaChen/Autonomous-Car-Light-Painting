@@ -33,7 +33,7 @@
 ## Light Painting
 ### Droplet
 <p float="left">
-   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/feed_back_simulation.png?raw=true" width="45%" height="45%">
+   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/feed_back_simulation.png?raw=true" width="55%" height="55%">
    <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/droplet.jpg?raw=true" width="30%" height="30%">
 </p>
 ### Chinese Knot
