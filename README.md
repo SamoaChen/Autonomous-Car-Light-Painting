@@ -40,5 +40,5 @@
 ### Chinese Knot
 <p float="left">
    <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/simulated_chinese_knot.png?raw=true" width="40%" height="40%">
-   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/chinese_knot.jpg?raw=true" width="35%" height="35%">
+   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/chinese_knot.jpg?raw=true" width="38%" height="38%">
 </p>
