@@ -34,6 +34,10 @@
 ### Droplet
 <p float="left">
    <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/feed_back_simulation.png?raw=true" width="55%" height="55%">
-   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/droplet.jpg?raw=true" width="23%" height="23%">
+   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/droplet.jpg?raw=true" width="25%" height="25%">
 </p>
 ### Chinese Knot
+<p float="left">
+   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/simulated_chinese_knot.png?raw=true" width="55%" height="55%">
+   <img src="https://github.com/SamoaChen/Autonomous-Car-Light-Painting/blob/main/Images/chinese_knot.jpg?raw=true" width="25%" height="25%">
+</p>
