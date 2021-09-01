@@ -1,0 +1,8 @@
+<launch>
+	<node
+		pkg="rc_car_path_control_pkg"
+		type="course_angle_publisher.py"
+		name="course_angle_publisher_node"
+		output="screen"
+	/>
+</launch>

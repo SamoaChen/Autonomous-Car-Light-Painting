@@ -1,0 +1,8 @@
+<launch>
+	<node
+		pkg="rc_car_path_control_pkg"
+		type="state_observer.py"
+		name="state_observer_node"
+		output="screen"
+	/>
+</launch>

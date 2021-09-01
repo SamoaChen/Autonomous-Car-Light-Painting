@@ -1,0 +1,26 @@
+<launch>
+	<node
+		pkg = "rc_car_path_control_pkg"
+		type = "course_angle_publisher.py"
+		name = "course_angle_publisher_node"
+		output = "screen"
+	/>
+	<node 
+		pkg = "rc_car_path_control_pkg"
+		type = "state_observer.py"
+		name = "state_observer_node"
+		output = "screen"
+	/>
+	<node 
+		pkg = "rc_car_path_control_pkg"
+		type = "controller.py"
+		name = "controller_node"
+		output = "screen"
+	/>
+	<node 
+		pkg = "rc_car_path_control_pkg"
+		type = "rc_car_actuation.py"
+		name = "rc_car_actuation_node"
+		output = "screen"
+	/>
+</launch>
